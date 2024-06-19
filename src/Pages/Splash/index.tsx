@@ -1,7 +1,7 @@
-function Home(){
+function Splash(){
     return (
         <h1>Hello world</h1>
     )
 }
 
-export default Home;
+export default Splash;
